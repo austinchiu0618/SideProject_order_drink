@@ -1,164 +1,176 @@
-{
-    "drinkCoffee": [
-        {
-            "id": 1,
-            "productName": "美式咖啡",
-            "englishName": "",
-            "price_large": 60,
-            "price_medium": 45
-        },
-        {
-            "id": 2,
-            "productName": "經典特調咖啡",
-            "englishName": "",
-            "price_large": 70,
-            "price_medium": 55
-        },        
-        {
-            "id": 3,
-            "productName": "拿鐵咖啡",
-            "englishName": "",
-            "price_large": 85,
-            "price_medium": 65
-        },              
-        {
-            "id": 4,
-            "productName": "焦糖風味拿鐵",
-            "englishName": "",
-            "price_large": 95,
-            "price_medium": 75
-        },        
-        {
-            "id": 5,
-            "productName": "榛果風味拿鐵",
-            "englishName": "",
-            "price_large": 95,
-            "price_medium": 75
-        },        
-        {
-            "id": 6,
-            "productName": "香草風味拿鐵",
-            "englishName": "",
-            "price_large": 95,
-            "price_medium": 75
-        },
-        {
-            "id": 7,
-            "productName": "卡布奇諾",
-            "englishName": "",
-            "price_large": 85,
-            "price_medium": 65
-        },
-        {
-            "id": 8,
-            "productName": "義式摩卡",
-            "englishName": "",
-            "price_large": 95,
-            "price_medium": 75
-        },
-        {
-            "id": 9,
-            "productName": "焦糖瑪奇朵",
-            "englishName": "",
-            "price_large": 95,
-            "price_medium": 75
-        }
-    ],
-    "drinkClassicTea": [
-        {
-            "id": 1,
-            "productName": "錫蘭紅茶",
-            "englishName": "",
-            "price_large": 40,
-            "price_medium": 35
-        },
-        {
-            "id": 2,
-            "productName": "薰香綠茶",
-            "englishName": "",
-            "price_large": 40,
-            "price_medium": 35
-        },        
-        {
-            "id": 3,
-            "productName": "四季翠玉青茶",
-            "englishName": "",
-            "price_large": 45,
-            "price_medium": 40
-        },        
-        {
-            "id": 4,
-            "productName": "皇家伯爵茶",
-            "englishName": "",
-            "price_large": 60,
-            "price_medium": 45
-        }
-    ],
-    "drinFlavoredTea": [
-        {
-            "id": 1,
-            "productName": "經典水果茶",
-            "englishName": "",
-            "price_large": 60,
-            "price_medium": 50
-        },
-        {
-            "id": 2,
-            "productName": "百香鮮果風味綠茶",
-            "englishName": "",
-            "price_large": 60,
-            "price_medium": 50
-        },        
-        {
-            "id": 3,
-            "productName": "柳橙鮮果風味綠茶",
-            "englishName": "",
-            "price_large": 60,
-            "price_medium": 50
-        },        
-        {
-            "id": 4,
-            "productName": "貴妃荔枝風味紅茶",
-            "englishName": "",
-            "price_large": 60,
-            "price_medium": 50
-        },        
-        {
-            "id": 5,
-            "productName": "太妃糖風味紅茶",
-            "englishName": "",
-            "price_large": 60,
-            "price_medium": 50
-        }
-    ],
-    "drinkMilkTea": [      
-        {
-            "id": 1,
-            "productName": "錫蘭奶茶",
-            "englishName": "",
-            "price_large": 55,
-            "price_medium": 50
-        },
-        {
-            "id": 2,
-            "productName": "薰香綠奶茶",
-            "englishName": "",
-            "price_large": 55,
-            "price_medium": 50
-        },
-        {
-            "id": 3,
-            "productName": "四季翠玉奶茶",
-            "englishName": "",
-            "price_large": 60,
-            "price_medium": 55
-        },
-        {
-            "id": 4,
-            "productName": "皇家伯爵奶茶",
-            "englishName": "",
-            "price_large": 60,
-            "price_medium": 55
-        }
-    ]
-}
+[
+	{
+		"name": "經典咖啡",
+		"drinkList": [
+			{
+				"id": 1,
+				"productName": "美式咖啡",
+				"englishName": "",
+				"price_large": 60,
+				"price_medium": 45
+			},
+			{
+				"id": 2,
+				"productName": "經典特調咖啡",
+				"englishName": "",
+				"price_large": 70,
+				"price_medium": 55
+			},
+			{
+				"id": 3,
+				"productName": "拿鐵咖啡",
+				"englishName": "",
+				"price_large": 85,
+				"price_medium": 65
+			},
+			{
+				"id": 4,
+				"productName": "焦糖風味拿鐵",
+				"englishName": "",
+				"price_large": 95,
+				"price_medium": 75
+			},
+			{
+				"id": 5,
+				"productName": "榛果風味拿鐵",
+				"englishName": "",
+				"price_large": 95,
+				"price_medium": 75
+			},
+			{
+				"id": 6,
+				"productName": "香草風味拿鐵",
+				"englishName": "",
+				"price_large": 95,
+				"price_medium": 75
+			},
+			{
+				"id": 7,
+				"productName": "卡布奇諾",
+				"englishName": "",
+				"price_large": 85,
+				"price_medium": 65
+			},
+			{
+				"id": 8,
+				"productName": "義式摩卡",
+				"englishName": "",
+				"price_large": 95,
+				"price_medium": 75
+			},
+			{
+				"id": 9,
+				"productName": "焦糖瑪奇朵",
+				"englishName": "",
+				"price_large": 95,
+				"price_medium": 75
+			}
+		]
+	},
+	{
+		"name": "精選熟成茶",
+		"drinkList": [
+			{
+				"id": 1,
+				"productName": "錫蘭紅茶",
+				"englishName": "",
+				"price_large": 40,
+				"price_medium": 35
+			},
+			{
+				"id": 2,
+				"productName": "薰香綠茶",
+				"englishName": "",
+				"price_large": 40,
+				"price_medium": 35
+			},
+			{
+				"id": 3,
+				"productName": "四季翠玉青茶",
+				"englishName": "",
+				"price_large": 45,
+				"price_medium": 40
+			},
+			{
+				"id": 4,
+				"productName": "皇家伯爵茶",
+				"englishName": "",
+				"price_large": 60,
+				"price_medium": 45
+			}
+		]
+	},
+	{
+		"name": "嚴選風味茶",
+		"drinkList": [
+			{
+				"id": 1,
+				"productName": "經典水果茶",
+				"englishName": "",
+				"price_large": 60,
+				"price_medium": 50
+			},
+			{
+				"id": 2,
+				"productName": "百香鮮果風味綠茶",
+				"englishName": "",
+				"price_large": 60,
+				"price_medium": 50
+			},
+			{
+				"id": 3,
+				"productName": "柳橙鮮果風味綠茶",
+				"englishName": "",
+				"price_large": 60,
+				"price_medium": 50
+			},
+			{
+				"id": 4,
+				"productName": "貴妃荔枝風味紅茶",
+				"englishName": "",
+				"price_large": 60,
+				"price_medium": 50
+			},
+			{
+				"id": 5,
+				"productName": "太妃糖風味紅茶",
+				"englishName": "",
+				"price_large": 60,
+				"price_medium": 50
+			}
+		]
+	},
+	{
+		"name": "香甜奶茶",
+		"drinkList": [
+			{
+				"id": 1,
+				"productName": "錫蘭奶茶",
+				"englishName": "",
+				"price_large": 55,
+				"price_medium": 50
+			},
+			{
+				"id": 2,
+				"productName": "薰香綠奶茶",
+				"englishName": "",
+				"price_large": 55,
+				"price_medium": 50
+			},
+			{
+				"id": 3,
+				"productName": "四季翠玉奶茶",
+				"englishName": "",
+				"price_large": 60,
+				"price_medium": 55
+			},
+			{
+				"id": 4,
+				"productName": "皇家伯爵奶茶",
+				"englishName": "",
+				"price_large": 60,
+				"price_medium": 55
+			}
+		]
+	}
+]
