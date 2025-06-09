@@ -1,4 +1,5 @@
-
 $modal-sm: 400px;
 
-@import "../../../node_modules/bootstrap/scss/bootstrap";
+@use "bootstrap/scss/bootstrap";
+
+@use 'variables' as *;

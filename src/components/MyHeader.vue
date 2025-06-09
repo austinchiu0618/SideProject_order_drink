@@ -102,15 +102,15 @@ export default {
                 }
             }
             &:nth-of-type(1) {
-                @media (max-width: $mediumSizeView) {
-                    display: none;
-                }
                 position: absolute;
                 top: 50%;
                 left: 0;
                 transform: translate(0, -50%);
                 display: flex;
                 align-items: center;
+                @media (max-width: $mediumSizeView) {
+                    display: none;
+                }
             }
             &:nth-of-type(2) {
                 position: absolute;

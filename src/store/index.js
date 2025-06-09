@@ -40,7 +40,7 @@ export default createStore({
 		getData(context) {
 			try {
 				axios
-					.get("static/productList.json")
+					.get(`${window.location.pathname}productList.json`)
 					.then((res) => {
 						context.commit("setAxiosData", res.data);
 					})
